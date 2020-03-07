@@ -1,3 +1,6 @@
+# Version 1
+# Very time cosuming, but it works no doubt!
+
 decimals = 10000
 PI = [0 for i in range(decimals)]
 temp = [0 for i in range(decimals)]
